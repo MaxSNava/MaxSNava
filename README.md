@@ -2,8 +2,6 @@
   <h1 align="center">Hola, soy <a href="">MaxSNava</a> 👋</h1>
 </div>
 
-![Max SNava Banner](https://github.com/MaxSNava/MaxSNava/blob/main/maxsnava_profile.png)
-
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 👨‍💻 &nbsp;Actualmente trabajo como Desarrollador WEB .\
