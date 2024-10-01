@@ -4,14 +4,20 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-👨‍💻 &nbsp;Actualmente trabajo como Desarrollador WEB .\
-💡 &nbsp;Me gusta trabajar en nuevas tecnologías y desarrollar proyectos de software .\
-🎓 &nbsp;Actualmente estoy estudiando Sistemas de la computación en Universidad .\
-🌱 &nbsp;Deseo aprender más sobre WEB, Aprendizaje Automático e Inteligencia Artificial .\
-👾 &nbsp;En mi tiempo libre, me gusta programar videojuegos y crear diseños de personajes .\
-💻 &nbsp;Domino varios lenguajes de programación, incluyendo Python, TypeScript y Go .\
-🤖 &nbsp;Utilizo las IA's como, NovelAI y DALL·E.
+```typescripy
+const bio = {
+  "- ⚡ Bio rápida:": "Desarrollador WEB entusiasta de nuevas tecnologías, gamer ocasional y amante del aprendizaje.",
+  "- 🔭 Actualmente trabajando en:": "Proyectos personales de desarrollo web y en constante mejora de mis habilidades.",
+  "- 🌱 Aprendiendo sobre:": "Machine Learning, Inteligencia Artificial, y nuevas tendencias de desarrollo web.",
+  "- 👯 Colaborando en:": "Proyectos relacionados con TypeScript, JavaScript y desarrollo web.",
+  "- 🤔 Buscando ayuda en:": "Proyectos de código abierto y optimización de procesos en la web.",
+  "- 💬 Pregúntame sobre:": "TypeScript, JavaScript, Python, y cómo construir proyectos web eficientes.",
+  "- 📫 Cómo contactarme:": "https://github.com/MaxSNava",
+  "- 😄 Pasatiempos:": "Programar videojuegos, diseño de personajes y explorar IA's como NovelAI y DALL·E."
+};
 
+Object.entries(bio).forEach(([key, value]) => console.log(`${key} ${value}`));
+```
 ### 🛠 &nbsp;Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
