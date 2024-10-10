@@ -3,20 +3,21 @@
 </div>
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
-
 ```typescripy
-const bio = {
-  "- ⚡ Bio rápida:": "Desarrollador WEB entusiasta de nuevas tecnologías, gamer ocasional y amante del aprendizaje.",
-  "- 🔭 Actualmente trabajando en:": "Proyectos personales de desarrollo web y en constante mejora de mis habilidades.",
-  "- 🌱 Aprendiendo sobre:": "Machine Learning, Inteligencia Artificial, y nuevas tendencias de desarrollo web.",
-  "- 👯 Colaborando en:": "Proyectos relacionados con TypeScript, JavaScript y desarrollo web.",
-  "- 🤔 Buscando ayuda en:": "Proyectos de código abierto y optimización de procesos en la web.",
-  "- 💬 Pregúntame sobre:": "TypeScript, JavaScript, Python, y cómo construir proyectos web eficientes.",
-  "- 📫 Cómo contactarme:": "https://github.com/MaxSNava",
-  "- 😄 Pasatiempos:": "Programar videojuegos, diseño de personajes y explorar IA's como NovelAI y DALL·E."
-};
+interface Bio {
+  title: string;
+  description: string;
+}
 
-Object.entries(bio).forEach(([key, value]) => console.log(`${key} ${value}`));
+const getBio = (): Bio[] => [
+  { title: "- ⚡ Bio rápida:", description: "Desarrollador WEB entusiasta de nuevas tecnologías, gamer ocasional y amante del aprendizaje." },
+  { title: "- 🔭 Actualmente trabajando en:", description: "Proyectos personales de desarrollo web y en constante mejora de mis habilidades." },
+  { title: "- 🌱 Aprendiendo sobre:", description: "Machine Learning, Inteligencia Artificial, y nuevas tendencias de desarrollo web." },
+  { title: "- 💬 Pregúntame sobre:", description: "TypeScript, JavaScript, Python, y cómo construir proyectos web eficientes." },
+  { title: "- 😄 Pasatiempos:", description: "Programar videojuegos, diseño de personajes y explorar IA's como NovelAI y DALL·E." }
+];
+
+getBio().forEach(item => console.log(`${item.title} ${item.description}`));
 ```
 ### 🛠 &nbsp;Tech Stack
 
