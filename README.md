@@ -4,11 +4,6 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 ```typescripy
-interface Bio {
-  title: string;
-  description: string;
-}
-
 const getBio = (): Bio[] => [
   { title: "- ⚡ Bio rápida:", description: "Desarrollador WEB entusiasta de nuevas tecnologías, gamer ocasional y amante del aprendizaje." },
   { title: "- 🔭 Actualmente trabajando en:", description: "Proyectos personales de desarrollo web y en constante mejora de mis habilidades." },
@@ -16,8 +11,6 @@ const getBio = (): Bio[] => [
   { title: "- 💬 Pregúntame sobre:", description: "TypeScript, JavaScript, Python, y cómo construir proyectos web eficientes." },
   { title: "- 😄 Pasatiempos:", description: "Programar videojuegos, diseño de personajes y explorar IA's como NovelAI y DALL·E." }
 ];
-
-getBio().forEach(item => console.log(`${item.title} ${item.description}`));
 ```
 ### 🛠 &nbsp;Tech Stack
 
@@ -68,9 +61,3 @@ getBio().forEach(item => console.log(`${item.title} ${item.description}`));
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaxSNava&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxSNava&theme=dark&hide_border=true"/>
-</p>
-
-
