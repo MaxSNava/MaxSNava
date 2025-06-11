@@ -1,63 +1,77 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="">MaxSNava</a> 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&center=true&vCenter=true&width=435&lines=Hola%2C+soy+MaxSNava;Fullstack+Developer;Fan+del+c%C3%B3digo+libre+y+la+IA;Bienvenido+a+mi+repositorio!" />
 </div>
 
-### 👨🏻‍💻 &nbsp;Sobre mi
-```typescripy
-const getBio = (): Bio[] => [
-  { title: "- ⚡ Bio rápida:", description: "Desarrollador WEB entusiasta de nuevas tecnologías, gamer ocasional y amante del aprendizaje." },
-  { title: "- 🔭 Actualmente trabajando en:", description: "Proyectos personales de desarrollo web y en constante mejora de mis habilidades." },
-  { title: "- 🌱 Aprendiendo sobre:", description: "Machine Learning, Inteligencia Artificial, y nuevas tendencias de desarrollo web." },
-  { title: "- 💬 Pregúntame sobre:", description: "TypeScript, JavaScript, Python, y cómo construir proyectos web eficientes." },
-  { title: "- 😄 Pasatiempos:", description: "Programar videojuegos, diseño de personajes y explorar IA's como NovelAI y DALL·E." }
-];
-```
-### 🛠 &nbsp;Tech Stack
+<br/>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+### 👨‍💻 Sobre mí
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+Desarrollador web apasionado por el aprendizaje constante y la creación de proyectos con propósito. Me encanta explorar nuevas tecnologías, jugar videojuegos retro, y darle forma a ideas locas con código.
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+---
 
+### 🧠 Habilidades Principales
 
-### 🗃 &nbsp;Bases de datos
+- 🟦 **Lenguajes:** TypeScript, JavaScript, Python, Go, C#, Java, PHP
+- 🧱 **Bases de Datos:** PostgreSQL, MongoDB, MySQL
+- ⚙️ **Frameworks:** NestJS, React (Vite + TS), Astro, Node.js
+- 🎨 **Frontend Tools:** HTML5, CSS3, TailwindCSS, Markdown
+- 📦 **DevOps / Herramientas:** Docker, Git, GitHub, WSL2, VSCode
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+---
 
+### 🚀 Actualmente
 
-### 🛠 &nbsp;Frameworks y Bibliotecas
+- 🔭 Trabajando en proyectos personales con **NestJS + GraphQL + PostgreSQL**
+- 🧪 Experimentando con **IA Generativa** y modelos como DALL·E y NovelAI
+- 🎮 En mi tiempo libre: desarrollo de fan-games y modelado en Blender
 
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![Astro](https://img.shields.io/badge/astro-%23000.svg?style=for-the-badge&logo=astro&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+---
 
+### 📊 GitHub Stats
 
-### 🧰 &nbsp;Herramientas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxSNava&show_icons=true&theme=algolia&count_private=true" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=MaxSNava&theme=algolia" height="180em"/>
+  <br />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxSNava&layout=compact&theme=algolia" height="180em"/>
+</div>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🧰 Tecnologías que uso
 
-<p align="center">
-  <a href="https://github.com/MaxSNava">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaxSNava&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/MaxSNava">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaxSNava&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<div align="center">
+
+<!-- Lenguajes -->
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<!-- Frameworks -->
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<!-- Herramientas -->
+<br/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/WSL2-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</div>
+
+---
+
+### 📫 Conéctate conmigo
+
+- 💼 [LinkedIn](https://linkedin.com/in/maxsnava)
+- 🐦 [Twitter](https://twitter.com/Max_SNava)
