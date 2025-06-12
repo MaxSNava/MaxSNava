@@ -31,7 +31,7 @@ Desarrollador web apasionado por el aprendizaje constante y la creación de proy
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxSNava&show_icons=true&theme=algolia&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxSNava&show_icons=true&theme=algolia&locale=es&count_private=true"  height="180em"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxSNava&layout=compact&theme=algolia" height="180em"/>
 </div>
 
